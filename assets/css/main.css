@@ -2483,6 +2483,12 @@
 		position: relative;
 	}
 
+		#banner img {
+			width: 200px;
+			height: 200px;
+			margin-top: 70px;
+		}
+
 		#banner header {
 			position: absolute;
 			bottom: 0;
