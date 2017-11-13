@@ -2487,6 +2487,7 @@
 			width: 200px;
 			height: 200px;
 			margin-top: 70px;
+			border-radius: 50%;
 		}
 
 		#banner header {
@@ -2540,6 +2541,7 @@
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
+			padding: 3em 0 0 0;
 		}
 
 		.wrapper.style3 {
@@ -2581,7 +2583,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 8em 0;
+		padding-top: 4em;
 	}
 
 		#footer a {
