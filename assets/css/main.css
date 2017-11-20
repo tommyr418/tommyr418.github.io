@@ -2486,7 +2486,7 @@
 		#banner img {
 			width: 200px;
 			height: 200px;
-			margin-top: 70px;
+			margin: 20px 0;
 			border-radius: 50%;
 		}
 
