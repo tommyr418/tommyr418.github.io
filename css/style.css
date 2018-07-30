@@ -336,6 +336,12 @@ ol.type li a:hover {
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
+
+.hover-bg img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
 #portfolio i.fa {
 	font-size: 20px;
 	padding: 5px;
